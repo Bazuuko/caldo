@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xcab095b74fc86f63a04d6288f22e1436bfb8a70a",
+  "SCAN_LINK": "0xcab095b74fc86f63a04d6288f22e1436bfb8a70a",
+  "NETWORK": {
+    "NAME": "Base",
+    "SYMBOL": "ETH",
+    "ID": 8453
+  },
+  "NFT_NAME": "Calcium Dogs",
+  "SYMBOL": "CALD",
+  "MAX_SUPPLY": 999,
+  "WEI_COST": 9900000000000000,
+  "DISPLAY_COST": 0.0099,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "",
+  "SHOW_BACKGROUND": true
+}
